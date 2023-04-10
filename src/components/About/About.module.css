@@ -1,0 +1,30 @@
+.back{
+    background-color:#1ABC9C;
+    
+}
+.port
+{
+    font-weight: 800;
+    color:white;
+
+}
+.line
+{
+    background-color:white ;
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    border-radius: 1rem;
+}
+.icon
+{
+    color:white ;
+    font-size: 32px;
+}
+.lead {
+    font-size:20px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: white;
+}

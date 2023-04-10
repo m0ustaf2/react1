@@ -1,0 +1,48 @@
+.cont
+{
+    font-weight: 700;
+    color: #2c3e50 ;
+    font-size: 48px;
+    line-height: 80px;
+
+}
+.line
+{
+    background-color:#2c3e50 ;
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    border-radius: 1rem;
+}
+.star
+{
+    color: #2c3e50 ;
+    font-size: 32px;
+}
+.name{
+    height: 100px;
+    width: 100%;
+    font-size: 1.5em;
+    padding-right: 0;
+    padding-left: 0;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 5px;
+    resize: none;
+}
+input:focus{
+    outline: none;
+}
+textarea:focus{
+    outline: none;
+}
+.area{
+    width: 100%;
+    font-size: 1.5em;
+    padding-right: 0;
+    padding-left: 0;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 5px;
+    resize: none;
+}

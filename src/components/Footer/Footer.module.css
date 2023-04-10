@@ -1,0 +1,39 @@
+.back{
+    background-color: #2C3E50;
+}
+h4{
+color: white;
+font-size: 24px;
+margin-bottom: 24px !important;
+font-weight: 700 !important;
+line-height: 1.2;
+}
+p{
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    line-height: 1.5;
+}
+
+.social{
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border-radius: 50%;
+    border: solid white 2px;
+    transition: all 0.2s;
+}
+.soicon{
+    color:white;
+}
+.social:hover {
+    background-color: white;
+    cursor: pointer;
+}
+.social:hover i{
+    color: black;
+    cursor: pointer;
+}
+.end{
+    background-color: #1A252F;
+}
